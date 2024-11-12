@@ -1,4 +1,5 @@
 # 美国DNS
 DOMAIN-SUFFIX,voice.telephony.goog
+DOMAIN-KEYWORD,voice
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,pluto.tv
