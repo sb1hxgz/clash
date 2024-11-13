@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,*.voice
 DOMAIN-SUFFIX,*.voice.*
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,*.pluto.tv
-DOMAIN-SUFFIX,*.pluto.*
+
